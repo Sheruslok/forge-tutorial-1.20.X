@@ -22,6 +22,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.TOPAZ.get());
                         pOutput.accept(ModBlocks.RUBY_BLOCK.get());
                         pOutput.accept(ModBlocks.TOPAZ_BLOCK.get());
+                        pOutput.accept(ModBlocks.STONE_RUBY_ORE.get());
                     })
                     .build());
 
